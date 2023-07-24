@@ -6,7 +6,7 @@
 
 <!-- Giới thiệu -->
 ### :triumph: Summary 
-Hello, I am a Full Stack Web Developer with a passion for both frontend and backend development. As a frontend developer, I have just started my career, and I am currently learning and researching about HTML, CSS, JavaScript, and popular frameworks such as ReactJS, NextJS and UI libraries. I am dedicated to honing my skills in creating captivating and user-friendly interfaces.
+Hello, I am a Full Stack Developer with a passion for both frontend and backend development. As a frontend developer, I have just started my career, and I am currently learning and researching about HTML, CSS, JavaScript, and popular frameworks such as ReactJS, NextJS and UI libraries. I am dedicated to honing my skills in creating captivating and user-friendly interfaces.
 
 On the backend side, I am proficient in languages such as PHP, C#, Java, and I am familiar with server-side technologies like NestJs, ASP.NET and Laravel. I have experience working with databases, such as MySQL and MongoDB, MSSQL, and enjoy building robust and efficient server-side functionalities.
 
