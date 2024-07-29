@@ -1,6 +1,6 @@
 ### :sparkles: Personal Information 
 
-- ***Full Name***: Võ Tấn Đạt
+- ***Full Name***: Kaiser Võ
 
 - ***Email***: tandatvok16@gmail.com
 
@@ -38,8 +38,5 @@ With a commitment to learning, dedication, and creativity, I am determined to co
 
 
 ### 🌐 Society
-- ***Facebook*** : https://www.facebook.com/vtd.0205/
-
-
 <!-- Thành tích -->
 <!-- ### :blue_book: Awards and Honors --> -->
