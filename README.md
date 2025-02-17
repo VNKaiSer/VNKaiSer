@@ -2,17 +2,29 @@
 
 - ***Full Name***: Kaiser Võ
 
-- ***Email***: tandatvok16@gmail.com
+- ***Email***: votandat.dev@gmail.com
 
 <!-- Giới thiệu -->
 ### :triumph: Summary 
-Hello, I am a Full Stack Developer with a passion for both frontend and backend development. As a frontend developer, I have just started my career, and I am currently learning and researching about HTML, CSS, JavaScript, and popular frameworks such as ReactJS, NextJS and UI libraries. I am dedicated to honing my skills in creating captivating and user-friendly interfaces.
+# Full Stack Developer
 
-On the backend side, I am proficient in languages such as PHP, C#, Java, and I am familiar with server-side technologies like NestJs, ASP.NET and Laravel. I have experience working with databases, such as MySQL and MongoDB, MSSQL, and enjoy building robust and efficient server-side functionalities.
+Hello, I am a **Full Stack Developer** with expertise in both mobile and web development.
 
-I believe that my passion for programming, both frontend and backend, fuels my desire to continuously improve and find innovative solutions to challenges. I am eager to gain practical experience by participating in real projects and applying my knowledge to deliver exceptional web applications.
+## Mobile Development
+I specialize in **Flutter**, crafting smooth, responsive, and visually appealing mobile applications. I am dedicated to improving my skills in building engaging user interfaces and delivering seamless user experiences.
 
-With a commitment to learning, dedication, and creativity, I am determined to contribute my best efforts to achieve project goals and to grow into a versatile and skilled Full Stack Web Developer.
+## Web Development
+On the frontend, I have experience working with modern web technologies, including **Vue.js, Next.js, and React.js**, to build dynamic, interactive, and user-friendly web applications.  
+
+On the backend, I am proficient in **Golang, NestJS, and Node.js**, developing efficient, scalable, and high-performance server-side functionalities. I have experience working with databases like **PostgreSQL** and **MongoDB**, as well as integrating APIs and optimizing backend systems.
+
+## My Passion
+My passion for both mobile and web development drives me to continuously learn, refine my skills, and find innovative solutions to challenges. I am eager to collaborate on real-world projects and apply my expertise to build high-quality applications.
+
+With a strong commitment to learning, dedication, and creativity, I strive to contribute my best efforts to project success and grow as a versatile and skilled **Full Stack Developer**.
+
+**Thank you for your time!**
+
 
 <!-- các kỹ năng -->
 ### :seedling: Technical Skills
@@ -39,4 +51,4 @@ With a commitment to learning, dedication, and creativity, I am determined to co
 
 ### 🌐 Society
 <!-- Thành tích -->
-<!-- ### :blue_book: Awards and Honors --> -->
+<!-- ### :blue_book: Awards and Honors --> 
